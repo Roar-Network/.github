@@ -1,5 +1,5 @@
 <div align="center">
-<img src="../img/roar-banner.png">
+<img src="https://github.com/Roar-Network/.github/blob/master/img/roar-banner.png?raw=true">
 
 <br/>
 <br/>
